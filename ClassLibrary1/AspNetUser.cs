@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ClassLibrary1
+namespace StoreFront.DATA.EF
 {
     using System;
     using System.Collections.Generic;
